@@ -18,7 +18,8 @@ echo "* Configuring image specific packages.";
 # Create user for jenkins
 echo "* create user for jenkins"
 /usr/sbin/groupadd -g 10001 jenkins
-/usr/sbin/useradd -u 10001 -g jenkins -d /home/jenkins -m -s /usr/bin/bash jenkins
+/usr/sbin/useradd -u 10001 -g jenkins -d /home/jenkins -s /usr/bin/bash jenkins
+mkdir /home/jenkins; chown jenkins:jenkins /home/jenkins
 
 # Download and enable jenkins
 echo "* download and enable jenkins"
