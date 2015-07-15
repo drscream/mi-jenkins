@@ -1,4 +1,4 @@
-name="jenkins"
+name="core-jenkins"
 organization="SmartOS"
 brand="Instance"
 version="0.1.620"
