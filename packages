@@ -4,3 +4,5 @@ git-base
 subversion-base
 cvs
 nginx
+# tools
+nodejs
