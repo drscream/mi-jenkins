@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.626
+
+* Switch to newest core-base image. [Thomas Merkel]
+* Update to newest jenkins version. [Thomas Merkel]
+* Rename to core-jenkins and update motd. [Thomas Merkel]
+
 ## v0.1.6
 
 * update to new jenkins version 1.600. [Thomas Merkel]

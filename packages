@@ -6,4 +6,5 @@ cvs
 nginx
 # tools
 wget
+gsed
 nodejs
