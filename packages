@@ -5,4 +5,5 @@ subversion-base
 cvs
 nginx
 # tools
+wget
 nodejs
