@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.32.1
+
+* Support delegate datasets for Jenkins [Thomas Merkel]
+* Switch to the newest Jenkins version 2.32.1 [Thomas Merkel]
+* Merge branch &#x27;master&#x27; of https://github.com/datasets-at/mi-jenkins.
+  [Thomas Merkel]
+* Drop obsolete host variable - fixes #2. [Daniel Malon]
+
 ## 0.1.626
 
 * Switch to newest core-base image. [Thomas Merkel]
